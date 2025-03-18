@@ -1,4 +1,4 @@
-# Digit Recognizer
+# Digit Recognizer System
 
 This project implements a simple neural network for digit recognition using the MNIST dataset. It builds and trains a feedforward neural network using NumPy to recognize handwritten digits from the MNIST dataset. The project uses basic techniques such as forward propagation, backward propagation, ReLU, softmax, and gradient descent to train the model.
 
